@@ -3,6 +3,7 @@
 - アイドル名で検索してiTunesにあるかどうか確認してます。
 - TuneCoreを掘ると見つかります。
 - https://www.tunecore.co.jp/artist/list
+- このリストは新しい曲を配信すると上に来る。
 
 note:
 - 同じアイドルだけど、複数のIDがある場合がある
